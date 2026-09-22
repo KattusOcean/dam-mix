@@ -1,0 +1,16 @@
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\bin\Debug\net10.0\FirstClasses_AlexVT.exe
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\bin\Debug\net10.0\FirstClasses_AlexVT.deps.json
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\bin\Debug\net10.0\FirstClasses_AlexVT.runtimeconfig.json
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\bin\Debug\net10.0\FirstClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\bin\Debug\net10.0\FirstClasses_AlexVT.pdb
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.AssemblyInfoInputs.cache
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.AssemblyInfo.cs
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.sourcelink.json
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\refint\FirstClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.pdb
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstClasses_AlexVT.genruntimeconfig.cache
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\ref\FirstClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\FirstClasses_AlexVT\obj\Debug\net10.0\FirstCla.4B4166DD.Up2Date

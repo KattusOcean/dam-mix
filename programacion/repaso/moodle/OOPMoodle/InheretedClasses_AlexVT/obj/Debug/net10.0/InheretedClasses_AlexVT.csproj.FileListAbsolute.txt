@@ -1,0 +1,16 @@
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.AssemblyInfoInputs.cache
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.AssemblyInfo.cs
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.sourcelink.json
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\bin\Debug\net10.0\InheretedClasses_AlexVT.exe
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\bin\Debug\net10.0\InheretedClasses_AlexVT.deps.json
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\bin\Debug\net10.0\InheretedClasses_AlexVT.runtimeconfig.json
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\bin\Debug\net10.0\InheretedClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\bin\Debug\net10.0\InheretedClasses_AlexVT.pdb
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\refint\InheretedClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.pdb
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\InheretedClasses_AlexVT.genruntimeconfig.cache
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\ref\InheretedClasses_AlexVT.dll
+C:\Users\kattus\Dam\programacion\repaso\OOPMoodle\InheretedClasses_AlexVT\obj\Debug\net10.0\Inherete.C608845E.Up2Date

@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="MauiFirst" mvid="f9234da36ce5461fb5271d91f447f211">
+  <java-to-managed>
+    <entry java-name="crc644220b5bc8b18f837/MainActivity" managed-name="MauiFirst.MainActivity, MauiFirst" managed-type-token-id="33554442" />
+    <entry java-name="crc644220b5bc8b18f837/MainApplication" managed-name="MauiFirst.MainApplication, MauiFirst" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc644220b5bc8b18f837/MainActivity" managed-name="MauiFirst.MainActivity, MauiFirst" managed-type-token-id="33554442" />
+    <entry java-name="crc644220b5bc8b18f837/MainApplication" managed-name="MauiFirst.MainApplication, MauiFirst" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>

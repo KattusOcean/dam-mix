@@ -1,0 +1,16 @@
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\bin\Debug\net10.0\FileWriterReader.exe
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\bin\Debug\net10.0\FileWriterReader.deps.json
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\bin\Debug\net10.0\FileWriterReader.runtimeconfig.json
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\bin\Debug\net10.0\FileWriterReader.dll
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\bin\Debug\net10.0\FileWriterReader.pdb
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.AssemblyInfoInputs.cache
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.AssemblyInfo.cs
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.sourcelink.json
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.dll
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\refint\FileWriterReader.dll
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.pdb
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWriterReader.genruntimeconfig.cache
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\ref\FileWriterReader.dll
+C:\Users\kattus\Dam\programacion\repaso\moodle\InputOutputStreams\FileWriterReader\obj\Debug\net10.0\FileWrit.FE7B56EA.Up2Date

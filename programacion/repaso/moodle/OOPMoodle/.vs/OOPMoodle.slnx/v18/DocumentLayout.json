@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|c:\\users\\kattus\\dam\\programacion\\repaso\\oopmoodle\\inheretedclasses_alexvt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|solutionrelative:inheretedclasses_alexvt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|c:\\users\\kattus\\dam\\programacion\\repaso\\oopmoodle\\inheretedclasses_alexvt\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|solutionrelative:inheretedclasses_alexvt\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|c:\\users\\kattus\\dam\\programacion\\repaso\\oopmoodle\\inheretedclasses_alexvt\\dad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|solutionrelative:inheretedclasses_alexvt\\dad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|c:\\users\\kattus\\dam\\programacion\\repaso\\oopmoodle\\inheretedclasses_alexvt\\mom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94CB691-3E99-4E74-B16F-388A604CDBFC}|InheretedClasses_AlexVT\\InheretedClasses_AlexVT.csproj|solutionrelative:inheretedclasses_alexvt\\mom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Program.cs",
+              "RelativeDocumentMoniker": "InheretedClasses_AlexVT\\Program.cs",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Program.cs",
+              "RelativeToolTip": "InheretedClasses_AlexVT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:24:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Parent.cs",
+              "RelativeDocumentMoniker": "InheretedClasses_AlexVT\\Parent.cs",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Parent.cs",
+              "RelativeToolTip": "InheretedClasses_AlexVT\\Parent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:24:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mom.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Mom.cs",
+              "RelativeDocumentMoniker": "InheretedClasses_AlexVT\\Mom.cs",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Mom.cs",
+              "RelativeToolTip": "InheretedClasses_AlexVT\\Mom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:49:45.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dad.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Dad.cs",
+              "RelativeDocumentMoniker": "InheretedClasses_AlexVT\\Dad.cs",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\programacion\\repaso\\OOPMoodle\\InheretedClasses_AlexVT\\Dad.cs",
+              "RelativeToolTip": "InheretedClasses_AlexVT\\Dad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:49:39.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

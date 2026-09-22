@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FirstClasses_AlexVT/1.0.0": {
+        "runtime": {
+          "FirstClasses_AlexVT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstClasses_AlexVT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

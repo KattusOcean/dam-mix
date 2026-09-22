@@ -1,0 +1,16 @@
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\bin\Debug\net10.0\R01E01_AlexVT.exe
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\bin\Debug\net10.0\R01E01_AlexVT.deps.json
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\bin\Debug\net10.0\R01E01_AlexVT.runtimeconfig.json
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\bin\Debug\net10.0\R01E01_AlexVT.dll
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\bin\Debug\net10.0\R01E01_AlexVT.pdb
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.AssemblyInfoInputs.cache
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.AssemblyInfo.cs
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.sourcelink.json
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.dll
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\refint\R01E01_AlexVT.dll
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.pdb
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_AlexVT.genruntimeconfig.cache
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\ref\R01E01_AlexVT.dll
+C:\Users\kattus\Curso\programacion\ejemplos\R01\R01E01_AlexVT\R01E01_AlexVT\obj\Debug\net10.0\R01E01_A.BF848A39.Up2Date

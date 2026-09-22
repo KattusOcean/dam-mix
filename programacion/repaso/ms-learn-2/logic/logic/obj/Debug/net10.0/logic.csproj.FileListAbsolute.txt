@@ -1,0 +1,16 @@
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\bin\Debug\net10.0\logic.exe
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\bin\Debug\net10.0\logic.deps.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\bin\Debug\net10.0\logic.runtimeconfig.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\bin\Debug\net10.0\logic.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\bin\Debug\net10.0\logic.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.AssemblyInfoInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.AssemblyInfo.cs
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.sourcelink.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\refint\logic.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.genruntimeconfig.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\ref\logic.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-2\logic\logic\obj\Debug\net10.0\logic.csproj.Up2Date

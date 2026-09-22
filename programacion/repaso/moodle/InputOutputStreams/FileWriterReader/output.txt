@@ -1,0 +1,11 @@
+Esto es una serie de palabras con poco o nulo sentido para hacer algo de relleno y así poder probar de una manera correcta los Writers y Readers unidos a los streams. Por cierto, C# (o C sharp) mejora muchísimo los streams mediante LINQ (pronunciado como "Link") respecto a Java, cuyo uso se hace complejo debido a la cantidad de lambdas que se necesitan y los nombres poco afortunados (al menos a diferencia de LINQ) que usan los métodos.
+Esto no es todo, debo meter nuevas lineas.
+
+Como estas.
+
+???
+Para molestar al StreamReader y que no pueda leer una sola linea y proclamarse ganador.
+
+JEJEJE!!
+
+This is a new addition!!!!!!!!

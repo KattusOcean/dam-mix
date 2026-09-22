@@ -1,0 +1,16 @@
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\bin\Debug\net10.0\logicInPractice.exe
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\bin\Debug\net10.0\logicInPractice.deps.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\bin\Debug\net10.0\logicInPractice.runtimeconfig.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\bin\Debug\net10.0\logicInPractice.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\bin\Debug\net10.0\logicInPractice.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.AssemblyInfoInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.AssemblyInfo.cs
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.sourcelink.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\refint\logicInPractice.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInPractice.genruntimeconfig.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\ref\logicInPractice.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-3\logicInPractice\logicInPractice\obj\Debug\net10.0\logicInP.C944D14C.Up2Date

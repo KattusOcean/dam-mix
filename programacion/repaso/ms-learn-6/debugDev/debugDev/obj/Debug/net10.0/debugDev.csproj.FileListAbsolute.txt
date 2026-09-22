@@ -1,0 +1,16 @@
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\bin\Debug\net10.0\debugDev.exe
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\bin\Debug\net10.0\debugDev.deps.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\bin\Debug\net10.0\debugDev.runtimeconfig.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\bin\Debug\net10.0\debugDev.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\bin\Debug\net10.0\debugDev.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.AssemblyInfoInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.AssemblyInfo.cs
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.sourcelink.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\refint\debugDev.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.genruntimeconfig.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\ref\debugDev.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-6\debugDev\debugDev\obj\Debug\net10.0\debugDev.csproj.Up2Date

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kattus\\Curso\\programacion\\repaso\\ms-learn-4\\wiseData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C788DA54-418E-7B0F-97F3-D3AE0CCCECD2}|wiseData\\wiseData.csproj|c:\\users\\kattus\\curso\\programacion\\repaso\\ms-learn-4\\wisedata\\wisedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C788DA54-418E-7B0F-97F3-D3AE0CCCECD2}|wiseData\\wiseData.csproj|solutionrelative:wisedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Curso\\programacion\\repaso\\ms-learn-4\\wiseData\\wiseData\\Program.cs",
+              "RelativeDocumentMoniker": "wiseData\\Program.cs",
+              "ToolTip": "C:\\Users\\kattus\\Curso\\programacion\\repaso\\ms-learn-4\\wiseData\\wiseData\\Program.cs",
+              "RelativeToolTip": "wiseData\\Program.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAkwP0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T19:27:35.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

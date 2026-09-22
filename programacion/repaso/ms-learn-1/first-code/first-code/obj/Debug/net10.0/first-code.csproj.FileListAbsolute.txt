@@ -1,0 +1,16 @@
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\bin\Debug\net10.0\first-code.exe
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\bin\Debug\net10.0\first-code.deps.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\bin\Debug\net10.0\first-code.runtimeconfig.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\bin\Debug\net10.0\first-code.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\bin\Debug\net10.0\first-code.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.AssemblyInfoInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.AssemblyInfo.cs
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.csproj.CoreCompileInputs.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.sourcelink.json
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\refint\first-code.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.pdb
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.genruntimeconfig.cache
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\ref\first-code.dll
+C:\Users\kattus\Curso\programacion\repaso\ms-learn-1\first-code\first-code\obj\Debug\net10.0\first-code.csproj.Up2Date

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kattus\\Curso\\programacion\\repaso\\ms-learn-6\\debugDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F67402D-F9FE-4E6E-8305-1325B462393C}|debugDev\\debugDev.csproj|c:\\users\\kattus\\curso\\programacion\\repaso\\ms-learn-6\\debugdev\\debugdev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F67402D-F9FE-4E6E-8305-1325B462393C}|debugDev\\debugDev.csproj|solutionrelative:debugdev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Curso\\programacion\\repaso\\ms-learn-6\\debugDev\\debugDev\\Program.cs",
+              "RelativeDocumentMoniker": "debugDev\\Program.cs",
+              "ToolTip": "C:\\Users\\kattus\\Curso\\programacion\\repaso\\ms-learn-6\\debugDev\\debugDev\\Program.cs",
+              "RelativeToolTip": "debugDev\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T20:54:08.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
