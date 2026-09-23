@@ -1,2 +1,12 @@
-.vs/
-**/ .vs/
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/

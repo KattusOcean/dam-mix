@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\DAM\\desarrollo-de-entornos\\primer-trimestre\\EjemploStackLayout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1565A-F519-432B-BF6B-B6BE1AD47D3C}|EjemploStackLayout\\EjemploStackLayout.csproj|c:\\users\\usuario\\dam\\desarrollo-de-entornos\\primer-trimestre\\ejemplostacklayout\\ejemplostacklayout\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FF1565A-F519-432B-BF6B-B6BE1AD47D3C}|EjemploStackLayout\\EjemploStackLayout.csproj|solutionrelative:ejemplostacklayout\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF1565A-F519-432B-BF6B-B6BE1AD47D3C}|EjemploStackLayout\\EjemploStackLayout.csproj|c:\\users\\usuario\\dam\\desarrollo-de-entornos\\primer-trimestre\\ejemplostacklayout\\ejemplostacklayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF1565A-F519-432B-BF6B-B6BE1AD47D3C}|EjemploStackLayout\\EjemploStackLayout.csproj|solutionrelative:ejemplostacklayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\DAM\\desarrollo-de-entornos\\primer-trimestre\\EjemploStackLayout\\EjemploStackLayout\\MainPage.xaml",
+              "RelativeDocumentMoniker": "EjemploStackLayout\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\DAM\\desarrollo-de-entornos\\primer-trimestre\\EjemploStackLayout\\EjemploStackLayout\\MainPage.xaml",
+              "RelativeToolTip": "EjemploStackLayout\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-23T11:46:50.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\DAM\\desarrollo-de-entornos\\primer-trimestre\\EjemploStackLayout\\EjemploStackLayout\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "EjemploStackLayout\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\DAM\\desarrollo-de-entornos\\primer-trimestre\\EjemploStackLayout\\EjemploStackLayout\\MainPage.xaml.cs",
+              "RelativeToolTip": "EjemploStackLayout\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:47:03.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

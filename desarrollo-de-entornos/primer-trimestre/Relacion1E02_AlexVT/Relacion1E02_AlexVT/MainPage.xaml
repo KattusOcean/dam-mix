@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Relacion1E02_AlexVT.MainPage">
+
+    <VerticalStackLayout Padding="30">
+        <HorizontalStackLayout>
+            <Label Text="Introduzca su nombre: " VerticalOptions="Center"/>
+            <Entry x:Name="eNombre" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout>
+            <Label Text="Introduzca sus apellidos: " VerticalOptions="Center"/>
+            <Entry x:Name="eApellidos" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout>
+            <Label Text="Introduzca su edad: " VerticalOptions="Center"/>
+            <Entry x:Name="eEdad" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+
+        <Button x:Name="bAcceder" Text="Acceder" WidthRequest="100" Clicked="bAccederClick"/>
+        <Label x:Name="lResultado"/>
+    </VerticalStackLayout>
+    
+</ContentPage>

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\Relacion1E01_AlexVT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE99B8A-9551-5658-D48F-56E35466FA26}|Relacion1E01_AlexVT\\Relacion1E01_AlexVT.csproj|c:\\users\\kattus\\dam\\desarrollo-de-entornos\\primer-trimestre\\relacion1e01_alexvt\\relacion1e01_alexvt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE99B8A-9551-5658-D48F-56E35466FA26}|Relacion1E01_AlexVT\\Relacion1E01_AlexVT.csproj|solutionrelative:relacion1e01_alexvt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE99B8A-9551-5658-D48F-56E35466FA26}|Relacion1E01_AlexVT\\Relacion1E01_AlexVT.csproj|c:\\users\\kattus\\dam\\desarrollo-de-entornos\\primer-trimestre\\relacion1e01_alexvt\\relacion1e01_alexvt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FE99B8A-9551-5658-D48F-56E35466FA26}|Relacion1E01_AlexVT\\Relacion1E01_AlexVT.csproj|solutionrelative:relacion1e01_alexvt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE99B8A-9551-5658-D48F-56E35466FA26}|Relacion1E01_AlexVT\\Relacion1E01_AlexVT.csproj|c:\\users\\kattus\\dam\\desarrollo-de-entornos\\primer-trimestre\\relacion1e01_alexvt\\relacion1e01_alexvt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FE99B8A-9551-5658-D48F-56E35466FA26}|Relacion1E01_AlexVT\\Relacion1E01_AlexVT.csproj|solutionrelative:relacion1e01_alexvt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\Relacion1E01_AlexVT\\Relacion1E01_AlexVT\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Relacion1E01_AlexVT\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\Relacion1E01_AlexVT\\Relacion1E01_AlexVT\\AppShell.xaml",
+              "RelativeToolTip": "Relacion1E01_AlexVT\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-23T18:02:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\Relacion1E01_AlexVT\\Relacion1E01_AlexVT\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Relacion1E01_AlexVT\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\Relacion1E01_AlexVT\\Relacion1E01_AlexVT\\MainPage.xaml",
+              "RelativeToolTip": "Relacion1E01_AlexVT\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-23T12:26:49.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\Relacion1E01_AlexVT\\Relacion1E01_AlexVT\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Relacion1E01_AlexVT\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\Relacion1E01_AlexVT\\Relacion1E01_AlexVT\\MainPage.xaml.cs",
+              "RelativeToolTip": "Relacion1E01_AlexVT\\MainPage.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:26:49.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\yt-dotnet\\MauiFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7EC670-00E2-260D-F221-064D7876E0F5}|MauiFirst\\MauiFirst.csproj|c:\\users\\kattus\\dam\\desarrollo-de-entornos\\primer-trimestre\\yt-dotnet\\mauifirst\\mauifirst\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7EC670-00E2-260D-F221-064D7876E0F5}|MauiFirst\\MauiFirst.csproj|solutionrelative:mauifirst\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\yt-dotnet\\MauiFirst\\MauiFirst\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiFirst\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kattus\\Dam\\desarrollo-de-entornos\\primer-trimestre\\yt-dotnet\\MauiFirst\\MauiFirst\\MauiProgram.cs",
+              "RelativeToolTip": "MauiFirst\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T10:40:02.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

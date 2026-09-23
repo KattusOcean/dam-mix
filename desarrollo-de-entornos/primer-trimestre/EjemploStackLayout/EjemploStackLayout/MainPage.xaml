@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EjemploStackLayout.MainPage">
+
+    <VerticalStackLayout VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         Spacing="10">
+        <StackLayout x:Name="slContenido"
+                     Orientation="Vertical">
+            <Label Text="Etiqueta 1" HorizontalOptions="Center"/>
+            <Label Text="Etiqueta 2" HorizontalOptions="Center"/>
+            <Label Text="Etiqueta 3" HorizontalOptions="Center"/>
+        </StackLayout>
+        
+        <HorizontalStackLayout>
+            <Button Text="Orientar"
+                    Clicked="bOrientacionClick"/>
+            <Button Text="Visibilidad"
+                    Clicked="bVisibilidadClick"/>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+    
+</ContentPage>
